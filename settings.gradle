@@ -1,0 +1,2 @@
+rootProject.name='WasteRockDistinguish'
+include ':app', ':network'

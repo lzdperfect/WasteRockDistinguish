@@ -1,0 +1,5 @@
+release版本的jks文件wasterockdistinguish.jks
+其中秘钥的
+Key store password为
+Key alias为
+Key password为

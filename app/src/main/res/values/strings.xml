@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">矸石智能识别</string>
+    <string name="total">总数量：%1$d</string>
+    <string name="coalnum">煤数量：%1$d</string>
+    <string name="rocknum">矸石数量：%1$d</string>
+</resources>
